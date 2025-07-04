@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak2004" alt="sarthak2004" /></a> </p>
 
-- 📫 How to reach me **sarthakishu2004@gmail.com**
+- 📫 How to reach me **sarthak062004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
