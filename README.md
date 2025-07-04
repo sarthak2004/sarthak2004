@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,cpp,c,js,python,mongodb,express,react,vite,nodejs,materialui" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,js,python,mongodb,express,react,vite,nodejs,materialui,ts,mysql" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak2004&show_icons=true&locale=en&layout=compact" alt="sarthak2004" /></p>
