@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak2004&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak2004" alt="sarthak2004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak2004](https://github-profile-trophy-kannan.vercel.app" alt="sarthak2004" /></a> </p>
 
 - 📫 How to reach me **sarthak062004@gmail.com**
 
